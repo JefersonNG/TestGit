@@ -1,5 +1,5 @@
 Primeiros passos para uso do git
-apos baixar git usar alguns comandos para fazer loguin
+apos baixar 
 
 gh auth login
 ![alt text](img/image.png)
